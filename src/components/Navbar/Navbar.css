@@ -13,13 +13,14 @@
 
 .nav li {
     list-style: none;
-    margin: 35px;
+    margin: 20px;
     font-weight: 600;
     font-size: 18px;
 }
 
 .nav li a {
     color: white;
+    padding: 10px 20px;
 }
 
 .nav .active a {
